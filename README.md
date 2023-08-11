@@ -1,6 +1,6 @@
 # File-Organization-using-nodeJs
 
---> The repository contains a project of organizing file structure to specific folder based on the extension that the file has.
+--> The repository contains a project of organizing file structure to specific folder based on the extension that the file has. The code is been pushed in the master branch <br>
 --> Programming Languae : NodeJs. <br><br>
 
 --> Commands for different functionality : <br>
